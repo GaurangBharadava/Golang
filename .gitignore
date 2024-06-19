@@ -1,0 +1,7 @@
+go.mod
+go.sum
+node_modules
+mymodules.exe
+buildapi.exe
+main.exe
+mytime.exe
